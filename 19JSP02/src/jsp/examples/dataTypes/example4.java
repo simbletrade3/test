@@ -34,7 +34,7 @@ public class example4 {
 			output = "show the existing employee";
 			break;
 		case 3:
-			output = "exit";
+			output = "exit134";
 			break;
 		default:
 			output =  "Invalid value";
