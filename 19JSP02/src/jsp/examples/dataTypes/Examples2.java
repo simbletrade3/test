@@ -24,7 +24,7 @@ public class Examples2 {
 		Scanner input2 = new Scanner(System.in);
 		System.out.println("Please enter your name : ");
 		String fullName2 =  input2.next();
-		System.out.println("Your fullName is : " + fullName2);
+		System.out.println("Your ful123lName is : " + fullName2);
 	}
 
 }
