@@ -16,7 +16,7 @@ public class example4 {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		Scanner input = new Scanner(System.in);
+		Scanner input123 = new Scanner(System.in);
 		System.out.println("Nhap so : ");
 		int a =  input.nextInt();
 		System.out.println("so ban input : " + a);
