@@ -24,7 +24,7 @@ public class example4 {
 
 	}
 	
-	public static String print(int a) {
+	public static Strin123g print(int a) {
 		String output = "";
 		switch (a) {
 		case 1:
