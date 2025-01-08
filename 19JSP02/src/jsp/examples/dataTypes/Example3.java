@@ -19,10 +19,10 @@ public class Example3 {
 		Scanner input1 = new Scanner(System.in);
 		System.out.println("Nhap a : ");
 		int a =  input1.nextInt();
-//		System.out.println123("a134 : " + a);
+//		System.out.println123("a : " + a);
 		
 		Scanner input2 = new Scanner(System.in);
-		System.out.println("N213hap b : ");
+		System.out.println("Nhap b : ");
 		int b =  input2.nextInt();
 		System.out.println("b : " + b);
 //		System.out.println(check(a, b));
