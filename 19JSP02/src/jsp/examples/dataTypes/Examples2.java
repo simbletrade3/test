@@ -18,7 +18,7 @@ public class Examples2 {
 		// TODO Auto-generated method stub
 		Scanner input1 = new Scanner(System.in);
 		System.out.println("Please enter your name : ");
-		String fullName=  input1.nextLine21();
+		String fullName=  input1.nextLine();
 		System.out.println("Your fullName is : " + fullName);
 		123
 		Scanner input2 = new Scanner(System.in);
