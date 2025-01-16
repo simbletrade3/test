@@ -11,7 +11,7 @@ public class Example1 {
 	public static void main(String args[]) {
 		Integer a1 = 127;
 		Integer b1 = 127;
-		System.out.println(a1 =1243= b1 ? true : false);
+		System.out.println(a1 == b1 ? true : false);
 		
 		/*int a2 = 128;
 		int b2 = 128;
